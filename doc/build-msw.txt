@@ -66,6 +66,6 @@ bjam toolset=gcc --build-type=complete stage
 NovaCoin
 -------
 DOS prompt:
-cd \novacoin\src
+cd \nodcoin\src
 mingw32-make -f makefile.mingw
-strip novacoind.exe
+strip nodcoind.exe

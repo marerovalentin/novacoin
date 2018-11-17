@@ -1,7 +1,7 @@
 
-NovaCoin official development tree
+Nodcoin official development tree
 
-NovaCoin - a hybrid scrypt PoW + PoS based cryptocurrency.
+Nodcoin - a hybrid scrypt PoW + PoS based cryptocurrency.
 
 * 10 minutes stake spacing
 * 30 minutes PoW spacing
@@ -25,7 +25,7 @@ or are controversial.
 
 The master branch is regularly built and tested, but is not guaranteed
 to be completely stable. Tags are regularly created to indicate new
-official, stable release versions of NovaCoin.
+official, stable release versions of Nodcoin.
 
 Feature branches are created when there are major new features being
 worked on by several people.
@@ -39,3 +39,4 @@ in this manner will have their corresponding issue labeled 'stagnant'.
 Issues with no commits will be given a similar warning, and closed after
 15 days from their last activity. Issues closed in this manner will be 
 labeled 'stale'.
+# NodCoin
